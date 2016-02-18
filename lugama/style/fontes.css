@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'latoregular';
+    src: url('fontes/lato-regular-webfont.eot');
+    src: url('fontes/lato-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fontes/lato-regular-webfont.woff2') format('woff2'),
+         url('fontes/lato-regular-webfont.woff') format('woff'),
+         url('fontes/lato-regular-webfont.ttf') format('truetype'),
+         url('fontes/lato-regular-webfont.svg#latoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'volkhovitalic';
+    src: url('fontes/volkhov-italic-webfont.eot');
+    src: url('fontes/volkhov-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fontes/volkhov-italic-webfont.woff2') format('woff2'),
+         url('fontes/volkhov-italic-webfont.woff') format('woff'),
+         url('fontes/volkhov-italic-webfont.ttf') format('truetype'),
+         url('fontes/volkhov-italic-webfont.svg#volkhovitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
